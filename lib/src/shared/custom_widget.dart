@@ -1,0 +1,9 @@
+export 'package:notes_app/src/shared/constants/app_colors.dart';
+export 'package:notes_app/src/shared/constants/text_styles.dart';
+export '/src/shared/widgets/fab_button_widget.dart';
+export '/src/shared/widgets/input_text_widget.dart';
+export 'package:notes_app/src/shared/widgets/card_widget.dart';
+export 'package:notes_app/src/shared/constants/card_shadow.dart';
+export 'package:notes_app/src/shared/constants/fab_shadow.dart';
+export 'package:notes_app/src/shared/constants/button_save_shadow.dart';
+export 'package:notes_app/src/shared/validators/input_text.dart';
